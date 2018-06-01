@@ -1,0 +1,8 @@
+{
+  "name": "gestionCitas",
+  "app_id": "bf561834",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
